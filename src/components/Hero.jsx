@@ -13,7 +13,7 @@ function Hero() {
           <br />
           <TypeAnimation 
            sequence=
-           {["front end ", 1000, "web designer", 300]}
+           {["frontend developer", 1000, "web designer", 300]}
            wrapper='span' speed={50}
            repeat={Infinity}>
            

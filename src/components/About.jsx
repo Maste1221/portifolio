@@ -7,7 +7,7 @@ function About() {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full justify-start py-6 md:py-0">
           <div className="my-auto mx-6">
             <h2 className="text-4xl font-bold mb-4 primayr-color ">About me</h2>
-            <p className="text-base lg:text-lg">am mastewal tsfaye form aastu for sofwater enginnering for theam mastewal tsfaye form aastu for sofwater enginnering for the  purpse of doing web develoent  for any development site .</p>
+            <p className="text-base lg:text-lg">am mastewal tesfaye form aastu for sofwater enginnering for theam mastewal tsfaye form aastu for sofwater enginnering for the  purpse of doing web develoent  for any development site .</p>
 
           </div>
         </div>
